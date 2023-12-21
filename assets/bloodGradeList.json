@@ -1,0 +1,380 @@
+[
+    {
+        "speciesId": 11837,
+        "breedId": 11848,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11848,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PC"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11848,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11849,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11849,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PC"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11849,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11852,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11852,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PC"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11852,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11855,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11855,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PC"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11855,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11856,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11856,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PC"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11856,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "1/2 Hol x 1/2 Gir",
+        "type": "CCG",
+        "acronym": "1/2 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "1/4 Hol x 3/4 Gir",
+        "type": "CCG",
+        "acronym": "1/4 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "23/32 Hol x 9/32 Gir",
+        "type": "CCG",
+        "acronym": "23/32 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "3/4 Hol x 1/4 Gir",
+        "type": "CCG",
+        "acronym": "3/4 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "3/8 Hol x 5/8 Gir",
+        "type": "CCG",
+        "acronym": "3/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "5/16 Hol x 11/16 Gir",
+        "type": "CCG",
+        "acronym": "5/16 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "5/8 Hol x 3/8 Gir",
+        "type": "CCG",
+        "acronym": "5/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "55/64 Hol x 9/64 Gir",
+        "type": "CCG",
+        "acronym": "55/64 sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "7/16 Hol x 7/16 Gir",
+        "type": "CCG",
+        "acronym": "7/16 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "7/8 Hol 1/8 Gir",
+        "type": "CCG",
+        "acronym": "7/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11857,
+        "bloodGrade": "Puro Sintético",
+        "acronym": "PS"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11858,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11858,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PC"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11858,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "1/2 Hol x 1/2 Guz",
+        "type": "CCG",
+        "acronym": "1/2 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "1/4 Hol x 3/4 Guz",
+        "type": "CCG",
+        "acronym": "1/4 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "1/8 Hol x 7/8 Guz",
+        "type": "CCG",
+        "acronym": "1/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "3/4 Hol x 1/4 Guz",
+        "type": "CCG",
+        "acronym": "3/4 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "3/8 Hol x 5/8 Guz",
+        "type": "CCG",
+        "acronym": "3/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "5/8 Hol x 3/8 Guz",
+        "type": "CCG",
+        "acronym": "5/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "7/8 Hol x 1/8 Guz",
+        "type": "CCG",
+        "acronym": "7/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11859,
+        "bloodGrade": "7/8 Hol x 1/8 Guz",
+        "type": "CCG",
+        "acronym": "7/8 Sangue"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11861,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11861,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11862,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11862,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11862,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PO"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11866,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11866,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11866,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11868,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11868,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11868,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11871,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11871,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11871,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11874,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11874,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11874,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11875,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11875,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11875,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11876,
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11876,
+        "bloodGrade": "Puro Controlado",
+        "acronym": "PA"
+    },
+    {
+        "speciesId": 11837,
+        "breedId": 11876,
+        "bloodGrade": "Puro de Origem",
+        "acronym": "PA"
+    }
+]

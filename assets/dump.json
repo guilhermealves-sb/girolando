@@ -1,0 +1,511 @@
+[
+    {
+        "species": "BOVINOS",
+        "breed": "ABERDEEN",
+        "bloodGrade": "NÃO INFORMADA",
+        "acronym": "NI"
+    },
+    {
+        "species": "AVES",
+        "breed": "BICUDO",
+        "bloodGrade": "NÃO INFORMADA",
+        "acronym": "NI"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BONSMARA",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BONSMARA",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BONSMARA",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BRAHMAN",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BRAHMAN",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BRAHMAN",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BRAHMAN MOCHO",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BRAHMAN MOCHO",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "BRAHMAN MOCHO",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "EQUINOS",
+        "breed": "CAMPOLINA",
+        "bloodGrade": "PURO SANGUE",
+        "acronym": "PS"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "CANGAIAN",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "CANGAIAN",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "CANGAIAN",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "EQUINOS",
+        "breed": "CRIOULO",
+        "bloodGrade": "PURO SANGUE",
+        "acronym": "PS"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIR LEITEIRO",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIR LEITEIRO",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIR LEITEIRO",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIR MOCHO",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIR MOCHO",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIR MOCHO",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "1/2 Hol x 1/2 Gir",
+        "type": "CCG",
+        "acronym": "1/2 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "1/4 Hol x 3/4 Gir",
+        "type": "CCG",
+        "acronym": "1/4 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "3/4 Hol x 1/4 Gir",
+        "type": "CCG",
+        "acronym": "3/4 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "5/8 Hol x 3/8 Gir",
+        "type": "CCG",
+        "acronym": "5/8 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "Puro Sintético",
+        "acronym": "PS"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "7/8 Hol 1/8 Gir",
+        "type": "CCG",
+        "acronym": "7/8 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "23/32 Hol x 9/32 Gir",
+        "type": "CCG",
+        "acronym": "23/32 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "7/16 Hol x 7/16 Gir",
+        "type": "CCG",
+        "acronym": "7/16 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "3/8 Hol x 5/8 Gir",
+        "type": "CCG",
+        "acronym": "3/8 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "5/16 Hol x 11/16 Gir",
+        "type": "CCG",
+        "acronym": "5/16 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GIROLANDO",
+        "bloodGrade": "55/64 Hol x 9/64 Gir",
+        "type": "CCG",
+        "acronym": "55/64 sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZERÁ",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZERÁ",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZERÁ",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZOLANDO",
+        "bloodGrade": "1/2 Hol x 1/2 Guz",
+        "type": "CCG",
+        "acronym": "1/2 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZOLANDO",
+        "bloodGrade": "1/4 Hol x 3/4 Guz",
+        "type": "CCG",
+        "acronym": "1/4 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZOLANDO",
+        "bloodGrade": "3/4 Hol x 1/4 Guz",
+        "type": "CCG",
+        "acronym": "3/4 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZOLANDO",
+        "bloodGrade": "5/8 Hol x 3/8 Guz",
+        "type": "CCG",
+        "acronym": "5/8 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZOLANDO",
+        "bloodGrade": "3/8 Hol x 5/8 Guz",
+        "type": "CCG",
+        "acronym": "3/8 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZOLANDO",
+        "bloodGrade": "7/8 Hol x 1/8 Guz",
+        "type": "CCG",
+        "acronym": "7/8 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "GUZOLANDO",
+        "bloodGrade": "1/8 Hol x 7/8 Guz",
+        "type": "CCG",
+        "acronym": "1/8 Sangue"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "HOLANDES",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "INDUBRASIL",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "INDUBRASIL",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "INDUBRASIL",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "EQUINOS",
+        "breed": "MANGALARGA",
+        "bloodGrade": "PURO SANGUE",
+        "acronym": "PS"
+    },
+    {
+        "species": "EQUINOS",
+        "breed": "MANGALARGA MARCHADOR",
+        "bloodGrade": "PURO SANGUE",
+        "acronym": "PS"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE MOCHO",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE MOCHO",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE MOCHO",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE PINTADO",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE PINTADO",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "NELORE PINTADO",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "EQUINOS",
+        "breed": "PAMPA",
+        "bloodGrade": "PURO SANGUE",
+        "acronym": "PS"
+    },
+    {
+        "species": "EQUINOS",
+        "breed": "QUARTO DE MILHA",
+        "bloodGrade": "PURO SANGUE",
+        "acronym": "PS"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SENEPOL",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SENEPOL",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SENEPOL",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SINDI",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SINDI",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SINDI",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SINDI MOCHO",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SINDI MOCHO",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "SINDI MOCHO",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "TABAPUÃ",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "TABAPUÃ",
+        "bloodGrade": "Puro por cruzamento",
+        "acronym": "PC"
+    },
+    {
+        "species": "BOVINOS",
+        "breed": "TABAPUÃ",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL",
+        "bloodGrade": "Não informada",
+        "acronym": "-"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL",
+        "bloodGrade": "PURO POR CRUZA 1",
+        "acronym": "PC1"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL",
+        "bloodGrade": "PURO POR CRUZA 2",
+        "acronym": "PC2"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL NC",
+        "bloodGrade": "PURO DE ORIGEM",
+        "acronym": "PO"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL NC",
+        "bloodGrade": "PURO POR CRUZA 1",
+        "acronym": "PC1"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL NC",
+        "bloodGrade": "PURO POR CRUZA 2",
+        "acronym": "PC2"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL NC",
+        "bloodGrade": "Não informada",
+        "acronym": "-"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL NC",
+        "bloodGrade": "Puro por Avaliação",
+        "acronym": "PA"
+    },
+    {
+        "species": "Ovinos",
+        "breed": "TEXEL NC",
+        "bloodGrade": "PURO POR CRUZA 3",
+        "acronym": "PC3"
+    }
+]
