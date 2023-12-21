@@ -55,7 +55,11 @@ export async function mapData(filePath, newFileName, token, urlKey) {
 
         const mappedItemsJson = JSON.stringify(mappedList)
 
-        fs.writeFileSync(`/dist/${newFileName}.json`, mappedItemsJson, 'utf8', function (err) {
+        if (!fs.existsSync('./dist/')) {
+            fs.mkdirSync('./dist/');
+        }
+
+        fs.writeFileSync(`./dist/${newFileName}.json`, mappedItemsJson, 'utf8', function (err) {
             if (err) throw err;
             console.log('New file created', newFileName);
             console.log("Mapped items: ", mappedItems)
