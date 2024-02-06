@@ -1,12 +1,12 @@
 import fs from "node:fs"
 import { createAxiosInstance } from "../service/axios.js"
 import { omit } from "../utils/omit.js"
-import { formatWord } from "../utils/formatWord.js"
+import { formatName } from "../utils/formatter.js"
 
 export async function mapData(filePath, newFileName, token, urlKey) {
     const api = createAxiosInstance(token, urlKey)
     const json = fs.readFileSync(filePath, 'utf-8')
-
+    
     try {
         const itemsList = JSON.parse(json)
         let mappedItems = 0
@@ -21,7 +21,7 @@ export async function mapData(filePath, newFileName, token, urlKey) {
             try {
                 console.log("Processing... ", `${mappedItems + skippedItems}/${totalItems}`)
                 const { data: categoriesData } = await api.get('/category?productTypeId=22')
-                const category = categoriesData.categorys.find((category) => category.desc == formatWord(item.species))
+                const category = categoriesData.categorys.find((category) => category.desc == formatName(item.species))
                 
                 if (!category?.id) {
                     console.log("SpeciesId not found for item: ", item)
@@ -31,7 +31,7 @@ export async function mapData(filePath, newFileName, token, urlKey) {
                 }
 
                 const { data: subCategoriesData } = await api.get(`/sub-category?categoryId=${category?.id}&limit=300`)
-                const subCategory = subCategoriesData.subCategorys.find((subCategory) => subCategory.desc == formatWord(item.breed))
+                const subCategory = subCategoriesData.subCategorys.find((subCategory) => subCategory.desc == formatName(item.breed))
 
                 if (!subCategory?.id) {
                     console.log("BreedId not found for item: ", item)
@@ -42,7 +42,7 @@ export async function mapData(filePath, newFileName, token, urlKey) {
 
                 mappedList.push({
                     ...omit(item, ['species', 'breed']),
-                    speciesId: category?.id,
+                                        speciesId: category?.id,
                     breedId: subCategory?.id
                 })
                 mappedItems++
